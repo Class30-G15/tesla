@@ -1,3 +1,3 @@
-Promethus
-Grafana
-Newrelic
+promethus
+grafana
+newrelic
